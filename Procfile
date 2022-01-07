@@ -1,1 +1,1 @@
-worker: python3 -m Music
+worker: bash start
